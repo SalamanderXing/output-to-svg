@@ -10,7 +10,10 @@ The output will be saved to `output.svg`
 ## Requirements
 
 - puppeteer (`npm install puppeteer`)
-- pdf2svg (check on your system `sudo pacman -S pdf2svg` on Arc or `sudo apt pdf2svg` on Ubuntu/Debian)
+- pdf2svg Check on your system:
+  - `sudo pacman -S pdf2svg` on Arch
+  - `sudo apt pdf2svg` on Ubuntu/Debian
+  - `brew install pdf2svg` on MacOS
 - ansi2html: `pip install ansi2html`
 
 ## Output examples
